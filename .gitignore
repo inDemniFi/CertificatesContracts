@@ -1,0 +1,3 @@
+# Ignore files not to be committed (e.g., build artifacts, local environment files)
+node_modules/
+.env
